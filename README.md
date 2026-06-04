@@ -139,9 +139,9 @@ Collection of geospatial projects involving remote sensing, environmental monito
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanghazi\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanghazi\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -150,6 +150,10 @@ Collection of geospatial projects involving remote sensing, environmental monito
 <div align="center">
 
 ### "Turning environmental and geospatial data into actionable intelligence."
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
 
 ⭐ Feel free to explore my repositories and connect with me.
 
