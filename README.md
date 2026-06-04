@@ -139,13 +139,11 @@ Collection of geospatial projects involving remote sensing, environmental monito
 
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanghazi&theme=tokyonight&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=armanghazi&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
