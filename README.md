@@ -81,11 +81,13 @@ Geospatial Artificial Intelligence (GeoAI) • Smart Cities • Environmental In
 ## 📈 GitHub Statistics
 
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=armanghazi&theme=tokyonight&hide_border=true&border_radius=10)
-  
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-  
-  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=armanghazi&theme=tokyonight&hide_border=true&border_radius=12)
+
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0F172A,1E2937)
+
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0F172A,1E2937)
+
 </div>
 
 ---
