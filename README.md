@@ -1,80 +1,102 @@
-<div align="center">
+# Hi, I'm Arman Ghaziaskari Naeini 👋
 
-# 🌍 Arman Ghaziaskari Naeini
+### GIS Specialist → Data Scientist → AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Scientist;GIS+%26+Remote+Sensing+Specialist;Natural+Hazards+Researcher)](https://git.io/typing-svg)
+I am a geospatial and environmental data professional with over 20 years of experience in Geographic Information Systems (GIS), Remote Sensing, and Environmental Analysis.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-armanghazi.github.io-blue?style=for-the-badge)](https://armanghazi.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arman--ghaziaskari-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arman-ghaziaskari)
-[![Kaggle](https://img.shields.io/badge/Kaggle-armanghazi-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/armanghazi)
+Today, I combine that domain expertise with Artificial Intelligence, Machine Learning, and Data Engineering to develop intelligent solutions for environmental monitoring, smart cities, and spatial decision support systems.
 
-</div>
+📍 Bilbao, Spain
 
----
+🌍 Portfolio: https://armanghazi.github.io/portfolio
 
-## 🚀 About Me
-
-I'm a **Machine Learning** and **Data Science** practitioner with a deep focus on **Geographic Information Systems (GIS)**, **Remote Sensing**, and **Natural Hazards** research. I build AI-powered systems that turn complex spatial and environmental data into actionable insights.
-
-- 📍 Based in **Bilbao, Spain**
-- 🔭 Currently working on: **Smart City Air Quality Monitoring & Forecasting** (Greater Bilbao)
-- 🌱 Interests: Geospatial AI, Environmental Data Science, Deep Learning for Earth Observation
-- 💬 Ask me about: **ML pipelines, GIS analysis, air quality modeling, Python**
+💼 LinkedIn: https://www.linkedin.com/in/arman-ghaziaskari
 
 ---
 
-## 🧠 Tech Stack
+## Current Focus
 
-### 🤖 Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### Smart City Air Quality Monitoring & Forecasting
 
-### 🗺️ GIS & Remote Sensing
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
+Developing an end-to-end AI system for air quality analysis in Greater Bilbao using:
 
-### 📊 Visualization & Dashboards
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+* Multi-station environmental data
+* Machine Learning forecasting models
+* Interactive GIS visualizations
+* Streamlit dashboards
+* Explainable AI techniques
 
-### ☁️ Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+The goal is to transform environmental data into actionable insights for sustainable urban planning.
 
 ---
 
-## 📌 Featured Projects
+## Areas of Expertise
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🌫️ Air Quality Monitoring – Bilbao](https://github.com/armanghazi/air_pollution_iran) | Smart City AQ Forecasting with multi-station data (2015–2026), WHO guidelines, Streamlit dashboard | Python, Streamlit, Folium, Pandas |
-| [🏫 University Rankings Analysis](https://github.com/armanghazi/University-Rankings-Analysis) | Exploratory & predictive analysis of global rankings 2014–2024 | Python, Jupyter |
-| [🤖 Generative AI for Beginners](https://github.com/armanghazi/generative-ai-for-beginners) | 21 lessons on building with Generative AI (fork of Microsoft's course) | Jupyter Notebook |
-| [♟️ Hundir la Flota](https://github.com/armanghazi/Hundir_la_flota) | Battleship game in Python, modular architecture | Python |
+### Geospatial Technologies
+
+* Geographic Information Systems (GIS)
+* Remote Sensing
+* Spatial Analysis
+* Environmental Monitoring
+* Cartography and Mapping
+
+### Data Science & Artificial Intelligence
+
+* Machine Learning
+* Predictive Analytics
+* Time Series Forecasting
+* Feature Engineering
+* Data Visualization
+
+### Programming
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* TensorFlow
+
+### Data & Cloud
+
+* SQL
+* ETL Pipelines
+* Streamlit
+* Git & GitHub
+* Docker
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
 
-<div align="center">
+### Air Quality Forecasting for Greater Bilbao
 
-![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+Machine Learning and GIS-based platform for monitoring and forecasting urban air pollution.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true)
+### University Rankings Analytics
 
-</div>
+Data analysis and predictive modeling of global university rankings (2014–2024).
+
+### Generative AI Projects
+
+Practical implementations of Large Language Models, Prompt Engineering, and AI workflows.
+
+### GIS & Environmental Applications
+
+Spatial analysis projects focused on environmental management and natural hazards.
 
 ---
 
-<div align="center">
+## Professional Vision
 
-*"Turning environmental data into decisions that matter."*
+I believe the future of environmental intelligence lies at the intersection of:
 
-</div>
+* Artificial Intelligence
+* Geospatial Technologies
+* Smart Cities
+* Sustainability
+
+My mission is to build data-driven solutions that support better decisions for people, cities, and the environment.
+
+---
+
+⭐ Feel free to explore my repositories and connect with me.
