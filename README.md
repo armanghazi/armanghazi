@@ -4,7 +4,7 @@
 
 ### GeoAI · Machine Learning · Spatial Data Science
 
-Turning geospatial data into actionable intelligence for smarter, healthier cities.
+**Building AI-powered geospatial solutions for smarter decisions and sustainable environments.**
 
 📍 Bilbao, Spain
 
@@ -15,60 +15,89 @@ Turning geospatial data into actionable intelligence for smarter, healthier citi
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-GeoAI and GIS professional with **20+ years** in Geographic Information Systems and Remote Sensing, now combining that background with **Machine Learning, AI, and Spatial Data Science** to build intelligent solutions for Smart Cities, environmental monitoring, and predictive analytics.
+I am a **GeoAI and GIS professional** with **20+ years of experience** in Geographic Information Systems (GIS), Remote Sensing, and environmental decision support.
 
----
-
-## ⭐ Featured: Smart City Air Quality Platform
-
-End-to-end GeoAI platform to monitor, analyze, and **forecast air quality** across Greater Bilbao.
-
-🔗 **[Live Demo](https://geoai-dashboard.streamlit.app/)** · **[Source Code](https://github.com/armanghazi/AI-Based-Smart-City-Air-Quality-Monitoring-and-Forecasting-System-for-Greater-Bilbao)**
-
-- **XGBoost forecasting** for 4 pollutants (PM2.5, PM10, NO₂, SO₂)
-- **~29,000 daily records**, 7 monitoring stations across 5 urban zones, 2015–2026
-- GIS-based spatial risk mapping, scenario simulation, and zone-level recommendations
-- Explainable AI (XAI), recursive forecasting, and interactive dashboards
-- Multilingual AI assistant (English / Spanish / Persian)
-
-**Stack:** Python · Pandas · Scikit-Learn · XGBoost · Streamlit · Folium · GeoPandas · GIS
+Today I combine this expertise with **Machine Learning, Artificial Intelligence, and Spatial Data Science** to design intelligent decision-support systems for **Smart Cities, environmental monitoring, and predictive analytics**.
 
 ---
 
-## 📂 Projects
+## ⭐ Featured Project
 
-| Project | Description | Links | Stack |
-|---|---|---|---|
-| 🌫️ **Smart City Air Quality** | GeoAI platform for air quality monitoring & forecasting in Greater Bilbao | [Demo](https://geoai-dashboard.streamlit.app/) · [Code](https://github.com/armanghazi/AI-Based-Smart-City-Air-Quality-Monitoring-and-Forecasting-System-for-Greater-Bilbao) | Python · ML · Streamlit · GIS |
-| 🌦️ **Tiempo Euskadi** | Modern Basque Country weather app | [Demo](https://tiempo-euskadi.vercel.app/) · [Code](https://github.com/armanghazi/tiempo-euskadi) | React · Vite · JS · API |
-| 🎓 **University Rankings Analysis** | EDA & predictive modeling of global university rankings | [Code](https://github.com/armanghazi/University-Rankings-Analysis) | Python · Pandas · ML |
-| 🧰 **ArmanDS** | Personal Python EDA toolkit for data science workflows | [Code](https://github.com/armanghazi/ArmanDS) | Python · Pandas · NumPy |
+# 🌫️ Smart City Air Quality Monitoring & Forecasting
+
+An end-to-end **GeoAI platform** that monitors, analyzes, visualizes, and forecasts air quality across the **Greater Bilbao metropolitan area**.
+
+### 🔗 Links
+
+**🌐 Live Demo:** https://geoai-dashboard.streamlit.app/
+
+**📂 Repository:** https://github.com/armanghazi/AI-Based-Smart-City-Air-Quality-Monitoring-and-Forecasting-System-for-Greater-Bilbao
+
+### Highlights
+
+- 🤖 XGBoost forecasting for **PM2.5, PM10, NO₂, and SO₂**
+- 📊 **29,000+ observations** collected from **7 monitoring stations** (2015–2026)
+- 🗺️ GIS-based spatial risk mapping and hotspot analysis
+- 📈 Recursive forecasting and scenario simulation
+- 💡 Explainable AI (XAI) for model interpretation
+- 🌍 Interactive dashboards for environmental decision support
+- 🤖 Multilingual AI Assistant (English · Spanish · Persian)
+
+### Technology Stack
+
+**Python · Pandas · Scikit-Learn · XGBoost · Streamlit · Folium · GeoPandas · QGIS · GIS**
 
 ---
 
-## 🛠️ Skills
+## 📂 Featured Projects
 
-**AI & Data Science** — Python · Machine Learning · Scikit-Learn · XGBoost · Pandas · NumPy
-
-**Geospatial** — GIS · GeoAI · Remote Sensing · QGIS · ArcGIS · GeoPandas · Folium · Google Earth Engine
-
-**Development** — SQL · ETL · Streamlit · Docker · Git · GitHub
-
----
-
-## 🎯 Focus Areas
-
-GeoAI for Smart Cities · Spatial Machine Learning · Environmental Forecasting · AI Decision Support · LLMs for Geospatial Applications
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🌫️ **Smart City Air Quality Monitoring** | GeoAI platform for monitoring and forecasting urban air quality in Greater Bilbao. | Python · XGBoost · Streamlit · GeoPandas · Folium |
+| 🌦️ **Tiempo Euskadi** | Modern weather application for the Basque Country built with React and Vite. | React · Vite · JavaScript · OpenWeather API |
+| 🎓 **University Rankings Analytics** | Exploratory Data Analysis and predictive modeling of global university rankings (2014–2024). | Python · Pandas · Machine Learning |
+| 🧰 **ArmanDS** | Lightweight Python toolkit for exploratory data analysis and data science workflows. | Python · Pandas · NumPy |
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Technical Skills
+
+### Artificial Intelligence & Data Science
+
+Python · Machine Learning · XGBoost · Scikit-Learn · Pandas · NumPy
+
+### Geospatial Technologies
+
+GIS · GeoAI · Remote Sensing · QGIS · ArcGIS · GeoPandas · Folium · Google Earth Engine
+
+### Development & Data Engineering
+
+SQL · ETL Pipelines · Streamlit · Docker · Git · GitHub
+
+---
+
+## 🎯 Current Focus
+
+- 🌍 GeoAI
+- 🏙️ Smart Cities
+- 📊 Spatial Machine Learning
+- 🌫️ Environmental Intelligence
+- 📈 Predictive Analytics
+- 🤖 AI Decision Support Systems
+- 🧠 LLMs for Geospatial Applications
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=armanghazi&theme=tokyonight&hide_border=true)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -77,6 +106,8 @@ GeoAI for Smart Cities · Spatial Machine Learning · Environmental Forecasting 
 
 <div align="center">
 
-⭐ Feel free to explore my repositories and connect.
+### 💡 *Turning geospatial data into actionable intelligence through AI.*
+
+⭐ Thanks for visiting my GitHub! Feel free to explore my repositories and connect.
 
 </div>
