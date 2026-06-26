@@ -6,7 +6,7 @@
   <p>
     <a href="https://armanghazi.github.io/portfolio">🌐 Portfolio</a> •
     <a href="https://www.linkedin.com/in/arman-ghaziaskari">💼 LinkedIn</a> •
-    <a href="https://www.kaggle.com/armanghazi">📊 Kaggle</a>
+
   </p>
 </div>
 
