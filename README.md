@@ -27,6 +27,10 @@ Today I combine this expertise with **Machine Learning, Artificial Intelligence,
 
 # 🌫️ Smart City Air Quality Monitoring & Forecasting
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/armanghazi/portfolio/main/src/assets/img/geoai_bilbao.svg" width="950">
+</p>
+
 An end-to-end **GeoAI platform** that monitors, analyzes, visualizes, and forecasts air quality across the **Greater Bilbao metropolitan area**.
 
 ### 🔗 Links
