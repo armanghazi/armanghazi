@@ -1,99 +1,82 @@
 <div align="center">
-  <h1>🌍 Arman Ghaziaskari Naeini</h1>
-  <h3>GIS • Data Science • Artificial Intelligence</h3>
-  <p>Transforming environmental and geospatial data into intelligent solutions for smarter and more sustainable cities.</p>
-  
-  <p>
-    <a href="https://armanghazi.github.io/portfolio">🌐 Portfolio</a> •
-    <a href="https://www.linkedin.com/in/arman-ghaziaskari">💼 LinkedIn</a> •
 
-  </p>
+# 🌍 Arman Ghaziaskari Naeini
+
+### GeoAI · Machine Learning · Spatial Data Science
+
+Turning geospatial data into actionable intelligence for smarter, healthier cities.
+
+📍 Bilbao, Spain
+
+[🌐 Portfolio](https://armanghazi.github.io/portfolio) ·
+[💼 LinkedIn](https://www.linkedin.com/in/arman-ghaziaskari)
+
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-I am a GIS and Remote Sensing specialist with more than 20 years of experience in geospatial analysis, environmental studies, and spatial decision support systems.  
-
-Over the last few years, I have expanded my expertise into **Data Science, Machine Learning, Artificial Intelligence**, and **Data Engineering**, combining deep domain knowledge with modern AI technologies to solve real-world environmental and urban challenges.
-
-📍 **Bilbao, Spain**  
-🎯 Currently focused on **Geospatial AI, Smart Cities, Environmental Intelligence, and Predictive Analytics**.
+GeoAI and GIS professional with **20+ years** in Geographic Information Systems and Remote Sensing, now combining that background with **Machine Learning, AI, and Spatial Data Science** to build intelligent solutions for Smart Cities, environmental monitoring, and predictive analytics.
 
 ---
 
-## 🚀 Flagship Project
+## ⭐ Featured: Smart City Air Quality Platform
 
-### 🌫️ Smart City Air Quality Monitoring & Forecasting – Greater Bilbao
+End-to-end GeoAI platform to monitor, analyze, and **forecast air quality** across Greater Bilbao.
 
-An end-to-end Machine Learning and GIS platform designed to monitor, analyze, visualize, and forecast air pollution across the Greater Bilbao metropolitan area.
+🔗 **[Live Demo](https://geoai-dashboard.streamlit.app/)** · **[Source Code](https://github.com/armanghazi/AI-Based-Smart-City-Air-Quality-Monitoring-and-Forecasting-System-for-Greater-Bilbao)**
 
-**Key Features:**
-- Multi-station environmental monitoring
-- Air quality forecasting
-- Machine Learning models
-- GIS-based spatial analysis
-- Interactive dashboards
-- Environmental risk assessment
-- Explainable AI techniques
+- **XGBoost forecasting** for 4 pollutants (PM2.5, PM10, NO₂, SO₂)
+- **~29,000 daily records**, 7 monitoring stations across 5 urban zones, 2015–2026
+- GIS-based spatial risk mapping, scenario simulation, and zone-level recommendations
+- Explainable AI (XAI), recursive forecasting, and interactive dashboards
+- Multilingual AI assistant (English / Spanish / Persian)
 
-**Technologies:** Python • Pandas • Scikit-Learn • Streamlit • Folium • QGIS • Machine Learning
-
-**Project Goals:** Predict pollution levels, support sustainable urban planning, and enable data-driven environmental decisions.
+**Stack:** Python · Pandas · Scikit-Learn · XGBoost · Streamlit · Folium · GeoPandas · GIS
 
 ---
 
-## 📌 Featured Projects
+## 📂 Projects
 
-- **🌦️ Basque Country Weather App** — Modern weather application built with React and Vite.  
-  *Tech:* React • Vite • JavaScript • OpenWeatherMap API
-
-- **🎓 University Rankings Analytics** — EDA and predictive modeling of world university rankings (2014–2024).  
-  *Tech:* Python • Pandas • Visualization • Machine Learning
-
-- **🤖 Generative AI Projects** — Hands-on work with LLMs, Prompt Engineering, and AI Assistants.  
-  *Tech:* Python • LLMs • LangChain • Prompt Engineering
-
-- **🗺️ GIS & Environmental Applications** — Various projects in remote sensing, natural hazards, and spatial analysis.  
-  *Tech:* QGIS • ArcGIS • Python • Google Earth Engine • Remote Sensing
+| Project | Description | Links | Stack |
+|---|---|---|---|
+| 🌫️ **Smart City Air Quality** | GeoAI platform for air quality monitoring & forecasting in Greater Bilbao | [Demo](https://geoai-dashboard.streamlit.app/) · [Code](https://github.com/armanghazi/AI-Based-Smart-City-Air-Quality-Monitoring-and-Forecasting-System-for-Greater-Bilbao) | Python · ML · Streamlit · GIS |
+| 🌦️ **Tiempo Euskadi** | Modern Basque Country weather app | [Demo](https://tiempo-euskadi.vercel.app/) · [Code](https://github.com/armanghazi/tiempo-euskadi) | React · Vite · JS · API |
+| 🎓 **University Rankings Analysis** | EDA & predictive modeling of global university rankings | [Code](https://github.com/armanghazi/University-Rankings-Analysis) | Python · Pandas · ML |
+| 🧰 **ArmanDS** | Personal Python EDA toolkit for data science workflows | [Code](https://github.com/armanghazi/ArmanDS) | Python · Pandas · NumPy |
 
 ---
 
-## 🛠️ Core Technologies
+## 🛠️ Skills
 
-**Artificial Intelligence & Data Science**  
-Python • Machine Learning • Deep Learning • Scikit-Learn • TensorFlow • Pandas • NumPy
+**AI & Data Science** — Python · Machine Learning · Scikit-Learn · XGBoost · Pandas · NumPy
 
-**Geospatial Technologies**  
-GIS • Remote Sensing • QGIS • ArcGIS • GeoPandas • Folium • Google Earth Engine
+**Geospatial** — GIS · GeoAI · Remote Sensing · QGIS · ArcGIS · GeoPandas · Folium · Google Earth Engine
 
-**Data Engineering & Development**  
-SQL • ETL Pipelines • Streamlit • Docker • Git • GitHub
+**Development** — SQL · ETL · Streamlit · Docker · Git · GitHub
 
 ---
 
-## 🌍 Areas of Interest
-Geospatial Artificial Intelligence (GeoAI) • Smart Cities • Environmental Intelligence • Air Quality Forecasting • Climate Change • Urban Analytics • Spatial Data Science
+## 🎯 Focus Areas
+
+GeoAI for Smart Cities · Spatial Machine Learning · Environmental Forecasting · AI Decision Support · LLMs for Geospatial Applications
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=armanghazi&theme=tokyonight&hide_border=true&border_radius=12)
-
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0F172A,1E2937)
-
-  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0F172A,1E2937)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=armanghazi&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=armanghazi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"Turning environmental and geospatial data into actionable intelligence."</i>
-  
-  ⭐ Feel free to explore my repositories and connect with me!
+
+⭐ Feel free to explore my repositories and connect.
+
 </div>
